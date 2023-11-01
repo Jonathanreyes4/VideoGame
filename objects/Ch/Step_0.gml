@@ -1,4 +1,4 @@
-// Evento Step
+// Evento Step del objeto del jugador (obj_Ch)
 
 // Comprueba si se presionan las teclas WASD y ajusta las variables de velocidad en consecuencia
 if (keyboard_check(ord("W"))) {
@@ -46,6 +46,7 @@ if (hsp != 0 || vsp != 0) {
         sprite_index = IdleR; // Cambia el sprite a IdleR cuando está quieto
     }
 }
+
 
 
 
