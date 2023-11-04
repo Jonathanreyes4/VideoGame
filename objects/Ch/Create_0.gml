@@ -8,3 +8,11 @@ vsp = 0; // Velocidad vertical del jugador
 move_speed = 4; // Velocidad de movimiento del jugador
 facing = "right"; // Dirección inicial del jugador
 sprite_index = IdleR; // Sprite inicial del jugador
+
+guns = [noone,noone];
+
+weapon = {
+	index: 0,
+	angle: 0,
+	frequency: 0
+};

@@ -26,7 +26,7 @@
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ca778ec4-a4d6-4efb-87e0-ee33d3c6d76f","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 7,
+  "origin": 4,
   "parent": {
     "name": "Idle",
     "path": "folders/Sprites/Character/Idle.yy",
@@ -66,7 +66,7 @@
     "visibleRange": null,
     "volume": 1.0,
     "xorigin": 32,
-    "yorigin": 65,
+    "yorigin": 32,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,

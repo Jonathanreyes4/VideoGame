@@ -26,3 +26,10 @@ draw_rectangle(bar_x, bar_y, bar_x + bar_width * (mana / 100), bar_y + bar_heigh
 // Dibuja la cantidad de maná
 draw_set_color(c_white);
 draw_text(bar_x + bar_width / 2, bar_y, string(mana));
+
+if (guns[weapon.index] != noone) {
+	var weaponScale = (weapon.angle >= 90 && weapon.angle < 270) ? -1 : 1;
+	var weaponAngle = weapon.angle + ((weapon.angle >= 90 && weapon.angle < 270) ? 180 : 0);
+
+	draw_sprite_ext(guns[weapon.index].sprite, 0, x, y - 4, weaponScale, 1, weaponAngle, c_white, 1);
+}

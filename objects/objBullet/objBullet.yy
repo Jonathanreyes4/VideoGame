@@ -1,9 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_weapon1",
+  "name": "objBullet",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"ObjectRoom1","path":"objects/ObjectRoom1/ObjectRoom1.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -11,10 +11,7 @@
     "name": "ObjWeapons",
     "path": "folders/Objects/ObjWeapons.yy",
   },
-  "parentObjectId": {
-    "name": "ObjWeapon",
-    "path": "objects/ObjWeapon/ObjWeapon.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -31,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "W1",
-    "path": "sprites/W1/W1.yy",
+    "name": "Bullet",
+    "path": "sprites/Bullet/Bullet.yy",
   },
   "spriteMaskId": null,
   "visible": true,

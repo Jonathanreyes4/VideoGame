@@ -31,7 +31,7 @@
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"fb6a8499-67d1-4982-b3b4-e43f905511ed","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 7,
+  "origin": 4,
   "parent": {
     "name": "Mov",
     "path": "folders/Sprites/Character/Mov.yy",
@@ -76,7 +76,7 @@
     "visibleRange": null,
     "volume": 1.0,
     "xorigin": 32,
-    "yorigin": 65,
+    "yorigin": 32,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,

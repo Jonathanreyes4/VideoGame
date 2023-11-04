@@ -49,7 +49,7 @@
     ],
     "top": 0,
   },
-  "origin": 7,
+  "origin": 4,
   "parent": {
     "name": "Idle",
     "path": "folders/Sprites/Character/Idle.yy",
@@ -89,7 +89,7 @@
     "visibleRange": null,
     "volume": 1.0,
     "xorigin": 32,
-    "yorigin": 65,
+    "yorigin": 32,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,
