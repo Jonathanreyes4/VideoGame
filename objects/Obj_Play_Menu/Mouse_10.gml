@@ -1,0 +1,6 @@
+sprite_index = PlayEnc
+
+
+
+
+
