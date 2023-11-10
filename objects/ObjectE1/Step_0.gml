@@ -51,13 +51,14 @@ if (random(1) < attack_chance) {
         var bullet_speed = 10; // Velocidad de la bala
 
         // Crear la bala
-        var bullet = instance_create_layer(x, y, "Instances", ObjB1); // Reemplaza ObjB1 con el nombre de tu objeto de bala
+        var bullet = instance_create_layer(x, y, "Instances", ObjB2); // Reemplaza ObjB1 con el nombre de tu objeto de bala
 
         // Configurar la dirección y la velocidad de la bala
         bullet.direction = bullet_direction;
         bullet.speed = bullet_speed;
     }
 }
+
 
 
 
