@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "FondoSalas",
-  "bbox_bottom": 767,
+  "bbox_bottom": 719,
   "bbox_left": 0,
-  "bbox_right": 1365,
+  "bbox_right": 1279,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ee034d1d-dd80-4b33-b626-66f408fd1045",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8720b7e7-5831-44c2-9f83-5627e4653ffe",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 768,
+  "height": 720,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f070088c-51e0-477b-acad-e09c707b277d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e5c23e9b-899a-487c-bad9-1239ae2b83e2","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ee034d1d-dd80-4b33-b626-66f408fd1045","path":"sprites/FondoSalas/FondoSalas.yy",},},},"Disabled":false,"id":"bca48a72-a4dd-487c-8c33-e7c7d46ef7e0","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8720b7e7-5831-44c2-9f83-5627e4653ffe","path":"sprites/FondoSalas/FondoSalas.yy",},},},"Disabled":false,"id":"9cca8070-3cca-4c03-82fe-45de21ef9bc3","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1366,
+  "width": 1280,
 }

@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "Fondo",
-  "bbox_bottom": 1079,
+  "bbox_bottom": 719,
   "bbox_left": 0,
-  "bbox_right": 1919,
+  "bbox_right": 1279,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3d40f7c9-86b4-4068-9d8b-2df7f8738310",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b9f436b3-9d08-457a-ba15-adf2476e121c",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 1080,
+  "height": 720,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7af7e239-1b6c-4bab-a2a7-150b4f7492d3","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"44cecebd-43e9-452d-b925-2252fdd36723","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3d40f7c9-86b4-4068-9d8b-2df7f8738310","path":"sprites/Fondo/Fondo.yy",},},},"Disabled":false,"id":"693bd28a-326a-49c4-b213-14322b06ce3c","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b9f436b3-9d08-457a-ba15-adf2476e121c","path":"sprites/Fondo/Fondo.yy",},},},"Disabled":false,"id":"5e4259fb-7497-4f2e-b21e-84ed1d74930e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1920,
+  "width": 1280,
 }

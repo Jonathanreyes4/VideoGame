@@ -1,7 +1,7 @@
 if texto == "play" {
 
 //
-room_goto(Salas)
+room_goto(Instruc)
 //room_goto(Room1)
 
 }
