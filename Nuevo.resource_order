@@ -42,6 +42,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"PlayEnc","order":5,"path":"sprites/PlayEnc/PlayEnc.yy",},
+    {"name":"W3","order":2,"path":"sprites/W3/W3.yy",},
     {"name":"scrPlayerWeaponUpdate","order":1,"path":"scripts/scrPlayerWeaponUpdate/scrPlayerWeaponUpdate.yy",},
     {"name":"MoE2","order":2,"path":"sprites/MoE2/MoE2.yy",},
     {"name":"IdleE4L","order":5,"path":"sprites/IdleE4L/IdleE4L.yy",},
@@ -73,6 +74,7 @@
     {"name":"Level2","order":3,"path":"rooms/Level2/Level2.yy",},
     {"name":"Instruc","order":6,"path":"rooms/Instruc/Instruc.yy",},
     {"name":"IdleE3R","order":4,"path":"sprites/IdleE3R/IdleE3R.yy",},
+    {"name":"Obj_Weapon3","order":3,"path":"objects/Obj_Weapon3/Obj_Weapon3.yy",},
     {"name":"Obj_level","order":1,"path":"objects/Obj_level/Obj_level.yy",},
     {"name":"IdleE2","order":2,"path":"sprites/IdleE2/IdleE2.yy",},
     {"name":"Ehit3L","order":3,"path":"sprites/Ehit3L/Ehit3L.yy",},

@@ -60,6 +60,7 @@
   },
   "resources": [
     {"id":{"name":"PlayEnc","path":"sprites/PlayEnc/PlayEnc.yy",},},
+    {"id":{"name":"W3","path":"sprites/W3/W3.yy",},},
     {"id":{"name":"scrPlayerWeaponUpdate","path":"scripts/scrPlayerWeaponUpdate/scrPlayerWeaponUpdate.yy",},},
     {"id":{"name":"Bullet","path":"sprites/Bullet/Bullet.yy",},},
     {"id":{"name":"MoE2","path":"sprites/MoE2/MoE2.yy",},},
@@ -100,6 +101,7 @@
     {"id":{"name":"ObjectRoom1","path":"objects/ObjectRoom1/ObjectRoom1.yy",},},
     {"id":{"name":"Instruc","path":"rooms/Instruc/Instruc.yy",},},
     {"id":{"name":"IdleE3R","path":"sprites/IdleE3R/IdleE3R.yy",},},
+    {"id":{"name":"Obj_Weapon3","path":"objects/Obj_Weapon3/Obj_Weapon3.yy",},},
     {"id":{"name":"Obj_level","path":"objects/Obj_level/Obj_level.yy",},},
     {"id":{"name":"Font0","path":"fonts/Font0/Font0.yy",},},
     {"id":{"name":"IdleE2","path":"sprites/IdleE2/IdleE2.yy",},},
