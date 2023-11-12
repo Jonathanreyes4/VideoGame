@@ -93,6 +93,7 @@
     {"name":"MoE5R","order":7,"path":"sprites/MoE5R/MoE5R.yy",},
     {"name":"Obj_level","order":1,"path":"objects/Obj_level/Obj_level.yy",},
     {"name":"IdleE7L","order":12,"path":"sprites/IdleE7L/IdleE7L.yy",},
+    {"name":"Sprite90","order":4,"path":"sprites/Sprite90/Sprite90.yy",},
     {"name":"MoE5L","order":8,"path":"sprites/MoE5L/MoE5L.yy",},
     {"name":"IdleE2","order":2,"path":"sprites/IdleE2/IdleE2.yy",},
     {"name":"Ehit3L","order":3,"path":"sprites/Ehit3L/Ehit3L.yy",},

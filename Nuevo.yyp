@@ -56,7 +56,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.8.1.102",
   },
   "resources": [
     {"id":{"name":"AEL6","path":"sprites/AEL6/AEL6.yy",},},
@@ -121,6 +121,7 @@
     {"id":{"name":"Obj_level","path":"objects/Obj_level/Obj_level.yy",},},
     {"id":{"name":"IdleE7L","path":"sprites/IdleE7L/IdleE7L.yy",},},
     {"id":{"name":"Font0","path":"fonts/Font0/Font0.yy",},},
+    {"id":{"name":"Sprite90","path":"sprites/Sprite90/Sprite90.yy",},},
     {"id":{"name":"MoE5L","path":"sprites/MoE5L/MoE5L.yy",},},
     {"id":{"name":"IdleE2","path":"sprites/IdleE2/IdleE2.yy",},},
     {"id":{"name":"Ehit3L","path":"sprites/Ehit3L/Ehit3L.yy",},},
