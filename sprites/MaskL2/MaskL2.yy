@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "MaskL2",
-  "bbox_bottom": 1999,
+  "bbox_bottom": 4999,
   "bbox_left": 0,
-  "bbox_right": 1999,
+  "bbox_right": 4999,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d285235d-bdf9-4467-aa8b-c939994eab24",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ce35a8f0-6ca5-4cdd-acb9-ddd989c10e8a",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 2000,
+  "height": 5000,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"dcc7f907-85c7-4a23-bc3c-daa885810708","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"35499b40-213d-48de-a6ad-fffd07d29922","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d285235d-bdf9-4467-aa8b-c939994eab24","path":"sprites/MaskL2/MaskL2.yy",},},},"Disabled":false,"id":"7c229ea0-1795-4b15-86f8-745071a0a912","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ce35a8f0-6ca5-4cdd-acb9-ddd989c10e8a","path":"sprites/MaskL2/MaskL2.yy",},},},"Disabled":false,"id":"3ed5ee3f-284f-4996-ab43-8ae56207f92e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 2000,
+  "width": 5000,
 }
