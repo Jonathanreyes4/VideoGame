@@ -56,7 +56,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.1.102",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"AEL6","path":"sprites/AEL6/AEL6.yy",},},
@@ -88,6 +88,7 @@
     {"id":{"name":"obj_weapon1","path":"objects/obj_weapon1/obj_weapon1.yy",},},
     {"id":{"name":"MoE3L","path":"sprites/MoE3L/MoE3L.yy",},},
     {"id":{"name":"S","path":"sprites/S/S.yy",},},
+    {"id":{"name":"MaskL3","path":"sprites/MaskL3/MaskL3.yy",},},
     {"id":{"name":"SprLevel","path":"sprites/SprLevel/SprLevel.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"Obj_Tittle","path":"objects/Obj_Tittle/Obj_Tittle.yy",},},
@@ -117,6 +118,7 @@
     {"id":{"name":"ObjectRoom1","path":"objects/ObjectRoom1/ObjectRoom1.yy",},},
     {"id":{"name":"Instruc","path":"rooms/Instruc/Instruc.yy",},},
     {"id":{"name":"IdleE3R","path":"sprites/IdleE3R/IdleE3R.yy",},},
+    {"id":{"name":"ObjectLevel3","path":"objects/ObjectLevel3/ObjectLevel3.yy",},},
     {"id":{"name":"Obj_Weapon3","path":"objects/Obj_Weapon3/Obj_Weapon3.yy",},},
     {"id":{"name":"MoE5R","path":"sprites/MoE5R/MoE5R.yy",},},
     {"id":{"name":"Obj_level","path":"objects/Obj_level/Obj_level.yy",},},
@@ -154,6 +156,7 @@
     {"id":{"name":"Level3","path":"rooms/Level3/Level3.yy",},},
     {"id":{"name":"IdleE4R","path":"sprites/IdleE4R/IdleE4R.yy",},},
     {"id":{"name":"Obj_Next","path":"objects/Obj_Next/Obj_Next.yy",},},
+    {"id":{"name":"Spr_Level3","path":"sprites/Spr_Level3/Spr_Level3.yy",},},
     {"id":{"name":"DiE4R","path":"sprites/DiE4R/DiE4R.yy",},},
     {"id":{"name":"ObjectE1","path":"objects/ObjectE1/ObjectE1.yy",},},
     {"id":{"name":"ObjB1","path":"objects/ObjB1/ObjB1.yy",},},
