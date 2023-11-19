@@ -120,6 +120,7 @@
     {"id":{"name":"Obj_Weapon3","path":"objects/Obj_Weapon3/Obj_Weapon3.yy",},},
     {"id":{"name":"MoE5R","path":"sprites/MoE5R/MoE5R.yy",},},
     {"id":{"name":"Obj_level","path":"objects/Obj_level/Obj_level.yy",},},
+    {"id":{"name":"Odamage_character","path":"objects/Odamage_character/Odamage_character.yy",},},
     {"id":{"name":"IdleE7L","path":"sprites/IdleE7L/IdleE7L.yy",},},
     {"id":{"name":"Font0","path":"fonts/Font0/Font0.yy",},},
     {"id":{"name":"Sprite90","path":"sprites/Sprite90/Sprite90.yy",},},
