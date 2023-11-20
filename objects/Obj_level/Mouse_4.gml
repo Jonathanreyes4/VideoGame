@@ -12,5 +12,7 @@ room_goto (Level3)
 if level=4 and global.bloqueadolv [level] =false{
 room_goto (Level4)
 }
-
+if level=5 and global.bloqueadolv [level] =false{
+room_goto (Level5)
+}
 

@@ -24,7 +24,7 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
+  "solid": true,
   "spriteId": {
     "name": "Spr_Level4",
     "path": "sprites/Spr_Level4/Spr_Level4.yy",
