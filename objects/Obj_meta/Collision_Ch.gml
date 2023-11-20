@@ -10,9 +10,13 @@ room_goto (Salas)
 }
 if room=Level3{
 global.pasarlv [3] =true
+global.bloqueadolv [4]=false
 room_goto (Salas)
 }
-
+if room=Level4{
+global.pasarlv [4] =true
+room_goto (Salas)
+}
 
 
 
