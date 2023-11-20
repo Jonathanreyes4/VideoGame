@@ -20,7 +20,7 @@ room_goto (Salas)
 }
 if room=Level5{
 global.pasarlv [5] =true
-room_goto (Salas)
+room_goto (The_End_Room)
 }
 
 
