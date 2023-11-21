@@ -11,6 +11,7 @@
     {"name":"Menu","order":4,"path":"folders/Objects/Menu.yy",},
     {"name":"Niveles","order":6,"path":"folders/Objects/Niveles.yy",},
     {"name":"ObjWeapons","order":2,"path":"folders/Objects/ObjWeapons.yy",},
+    {"name":"Sonidos","order":9,"path":"folders/Objects/Sonidos.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
@@ -39,7 +40,6 @@
     {"name":"Sala_Niv","order":6,"path":"folders/Sprites/Menu/Sala_Niv.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Sonidos","order":9,"path":"folders/Objects/Sonidos.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"AEL6","order":6,"path":"sprites/AEL6/AEL6.yy",},
@@ -63,6 +63,7 @@
     {"name":"obj_weapon8","order":9,"path":"objects/obj_weapon8/obj_weapon8.yy",},
     {"name":"Exit","order":10,"path":"sprites/Exit/Exit.yy",},
     {"name":"MaskL5","order":5,"path":"sprites/MaskL5/MaskL5.yy",},
+    {"name":"ObjectE8","order":11,"path":"objects/ObjectE8/ObjectE8.yy",},
     {"name":"AER7","order":7,"path":"sprites/AER7/AER7.yy",},
     {"name":"IdleE3L","order":3,"path":"sprites/IdleE3L/IdleE3L.yy",},
     {"name":"The_End_Room","order":10,"path":"rooms/The_End_Room/The_End_Room.yy",},

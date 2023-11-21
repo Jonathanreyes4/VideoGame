@@ -60,7 +60,7 @@ if (random(1) < attack_chance) {
     }
 }
 
-//recivir daño
+//recibir daño
 if place_meeting(x,y,oDamage_enemy)
 {
 	var _inst = instance_place(x,y,oDamage_enemy)

@@ -34,7 +34,22 @@ if (speed != 0) {
     }
 }
 
+//recibir daño
+if place_meeting(x,y,oDamage_enemy)
+{
+	var _inst = instance_place(x,y,oDamage_enemy)
+	
+	//recibir daño
+	hp -= _inst.damage;
+	
+	//instancia para destruirse
+	_inst.destroy = true;
+}
 
+if hp <= 0 
+{
+	instance_destroy()
+}
 
 
 

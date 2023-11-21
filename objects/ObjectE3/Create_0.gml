@@ -12,7 +12,8 @@ sprite_move_left = MoE3L;
 
 // Establece el sprite inicial
 sprite_index = sprite_idle_right;
-
+// Evento Create en ObjectE1
+hp = 8; // Iniciar al enemigo con 100 puntos de vida
 
 
 
