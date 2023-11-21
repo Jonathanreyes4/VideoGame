@@ -2,7 +2,7 @@
 
 // Inicializa la dirección y la velocidad
 direction = random(360);
-speed = 2;
+speed = 3;
 
 // Inicializa los sprites
 sprite_idle_right = IdleE7R;
