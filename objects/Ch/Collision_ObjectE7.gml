@@ -1,5 +1,3 @@
-/// @description Inserte aquí la descripción
-// Puede escribir su código en este editor
 var damage = 1;
 
 if (escudo > 0)
@@ -19,4 +17,11 @@ if (hp <= 0)
 	instance_destroy()
 	room_goto(Salas);
 }
+/// @description Inserte aquí la descripción
+// Puede escribir su código en este editor
+
+
+
+
+
 
