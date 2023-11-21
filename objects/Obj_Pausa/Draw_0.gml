@@ -22,7 +22,7 @@ if (pause) {
     draw_set_font(fntPause);
     draw_set_halign(fa_center);
     draw_set_valign(fa_middle);
-    draw_text(cam_x + 1280 / 2, cam_y + 720 / 2, "Juego Pausado"); // Ajustado al tamaño de la cámara
+    draw_text(cam_x + 1200 / 2, cam_y + 720 / 2, "Juego Pausado"); // Ajustado al tamaño de la cámara
     draw_set_halign(fa_left);
     draw_set_valign(fa_top);
 }
