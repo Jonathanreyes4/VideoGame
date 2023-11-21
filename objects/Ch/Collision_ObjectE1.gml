@@ -2,13 +2,17 @@
 // Puede escribir su código en este editor
 var damage = 1;
 
-if (damage > 0) {
-        hp -= damage;
-    }
-	
+if (escudo > 0)
+{
+	var shield_damage = min(damage, escudo);
+        escudo -= shield_damage;
+        damage -= shield_damage;
+}
+
+
 if (hp <= 0)
 {
 	instance_destroy()
-	room_goto(Game_OverRoom);
+	room_goto(Salas);
 }
 
