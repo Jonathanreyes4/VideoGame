@@ -4,7 +4,7 @@
   "name": "THE_END",
   "bbox_bottom": 719,
   "bbox_left": 0,
-  "bbox_right": 1279,
+  "bbox_right": 1199,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1280,
+  "width": 1200,
 }
