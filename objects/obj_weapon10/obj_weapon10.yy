@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "W8",
-    "path": "sprites/W8/W8.yy",
+    "name": "W10",
+    "path": "sprites/W10/W10.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -9,6 +9,6 @@ if (damage > 0) {
 if (hp <= 0)
 {
 	instance_destroy()
-	room_goto(Salas);
+	room_goto(Game_OverRoom);
 }
 
